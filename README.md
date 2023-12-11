@@ -1,0 +1,1 @@
+# criar-imagens-em-lote
